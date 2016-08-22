@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyTestProject</string>
+    <string name="str_btn_set_color">Set Color</string>
+    <string name="str_tv_widget">An App Widget for Analog Clock</string>
 </resources>
